@@ -1,0 +1,16 @@
+/******************************************************************************
+
+Contagem regressiva - 7
+
+*******************************************************************************/
+#include <stdio.h>
+
+int main()
+{
+    for (int i=30 ; i>=0 ; i--){
+       printf("\n faltam = %d", i);
+}
+printf ("\n Obrigado! Até");
+    return 0;
+}
+ //Feito no onlinegdb
